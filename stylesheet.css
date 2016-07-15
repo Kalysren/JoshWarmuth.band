@@ -1,0 +1,99 @@
+
+
+
+
+     <style>
+	 
+	 
+	 *{
+		 
+		 font-family: cursive;
+		 font-size: 16px;
+	 }
+	 body{
+		 background-color: #150702;
+		 font-family: cursive;
+		 color: #e28610;
+		 link-color: #b4b4b4;
+		 
+
+	 }
+	 
+	 a{
+		 text-decoration:none;
+		 color: #e28610;
+	 }
+	 
+	 a:hover{
+		 text-decoration: underline;
+		 color: #c78723;
+	 }
+	 
+	 
+	 a:visited{
+		 color: #f3efd1;
+	 }
+	 
+	 .Home{
+		 position:relative;
+		 top: 60px;
+		 height: 560px;
+		 width:100%;
+		 
+	 }
+	 
+	 #JoshWarmuth{
+		margin-right:200px;
+		margin-bottom:50 px;
+		
+	 }
+	 
+	 #title{
+		 position: relative;
+		 top: 200px;
+		 font-family: 'Rock Salt', cursive;
+		
+	 }
+	
+    #welcome{
+		top:60px;
+		
+	}	
+	
+	 ul{
+		 list-style: none;
+		 margin: 0;
+		 padding:0;
+		
+	 }
+	#SocialMedia li{
+		float: right;
+		
+	}
+	.table{
+		display:table;
+		margin:0 auto;
+	}
+	#MenuBar li{
+		float:left;
+	    padding: 6px;
+		align: top;
+		
+	}
+	.Menu{
+		position: fixed;
+		z-index: 1;
+		top:0;
+		width:100%;
+		background-color:#040300;
+		height: 50px;
+		margin:0;
+		padding: 0;
+	}
+	
+	h2{
+		font-family: 'Rock Salt', cursive;
+	}
+	
+	/*Copyright Aesthetic Studios/Shelly Warmuth.  All Rights Reserved */
+	 </style>
